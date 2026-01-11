@@ -53,7 +53,7 @@ The Power BI dashboard provides:
 * Category-wise and time-based insights
 * Interactive filters for dynamic analysis
   
-<img width="887" height="499" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2b111f0c-58eb-40cc-811d-33dfe2cb2e88" />
+<img width="886" height="496" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/142b76c2-0326-49e3-b76a-56f83d570143" />
 
 ---
 
